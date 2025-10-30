@@ -11,6 +11,9 @@ A modern, responsive calculator built using **Tkinter + Python**, featuring:
 ```bash
 python main.py
 
+## 🧠 Advanced AI Calculator Demo
+
+[![Advanced AI Calculator Demo](assets/demo.png)](https://drive.google.com/file/d/1kF9CahJ0aZo_1VN2THrXItxOWNZj9qnP/view?usp=sharing)
 
 
 ---
@@ -41,3 +44,4 @@ git push -u origin main
 # Advanced-AI-Calculator
 # Advanced-AI-Calculator
 # Advanced-AI-Calculator
+
